@@ -17,7 +17,6 @@ and s is the size of the filter for example, 3 x 3 or 5 x 5. This method
 performs average filter of size s x s on the image I. Your output should
 display the values of the pixels in the image along with showing the image
 itself.
-
 <br>5. void unisharpfilter(I, s)  where I is the image itself represented as a 2D
 array and s is the size of the filter for example, 3 x 3 or 5 x 5. This method
 performs uniform sharpening filter of size s x s on the image I. Your output
